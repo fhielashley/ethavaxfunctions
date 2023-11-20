@@ -1,6 +1,6 @@
 # ethavaxfunctions
 
-Overview
+# Overview
 
 This code represents the three functionality of the needed program which only contract owner should be able to mint tokens, any user can transfer tokens and any user can burn tokens
 
@@ -29,3 +29,9 @@ Mint event is emitted when new tokens are minted (created).
 9.The burn function allows any user to burn (destroy) their own tokens. It checks for valid inputs and updates the balances and total supply accordingly.
 
 10.The balanceOf function allows users to check the token balance of a specific address.
+
+# Author
+fhielashley
+
+# License 
+This project is licensed under the MIT License - see the LICENSE.md file for details.
